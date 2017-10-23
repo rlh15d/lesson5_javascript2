@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 23, 2017
 
 ### Student Name:  
-(First and Last Name)
+Rachel Hrenko
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We used the expense calculator to find the income tax bracket.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://rlh15d.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The if-else statements were hard to grasp at first, but with some class review, I was able to complete them.
+2. I learned that functions are pieces of code that performs one or more actions.
+3. The return statement ends the execution of a function and returns control to the calling function. 
 
